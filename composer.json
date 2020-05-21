@@ -1,0 +1,15 @@
+{
+  "name": "m0r0z0vd/st",
+  "description": "Simple timer",
+  "license": "MIT",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "MDServices\\": "src/",
+      "MDServices\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^8.5"
+  }
+}
